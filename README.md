@@ -1,4 +1,4 @@
-# bible verse telegram Bot
+# AMHARIC BIBLE VERSE TELEGRAM BOT
 
 delivers daily Bible verses in **Amharic** and **English** at scheduled times (12:00 AM & 12:00 PM)...users can also request instant verses with `/verse`
 
