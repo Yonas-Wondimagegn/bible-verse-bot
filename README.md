@@ -1,10 +1,10 @@
 # AMHARIC BIBLE VERSE TELEGRAM BOT
 
-delivers daily Bible verses in **Amharic** and **English** at scheduled times (12:00 AM & 12:00 PM)...users can also request instant verses with `/verse`
+delivers daily Bible verses in **Amharic** and **English** at scheduled times at 12:00AM & 12:00PM...users can also request instant verses with `/verse`
 
 ## Features
  Scheduled Verses
- Smart Rotation
+ Smart rotation
 - 25 curated bible passages from both Old & New Testament
 - tried to include anti repeat algo to ensures no duplicate verses within 10 requests that came from 1 user
 - to ensure same naming as amharic reference names i have had included those to the project (e.g ምሳሌ for Proverbs, ዮሐንስ for John)
